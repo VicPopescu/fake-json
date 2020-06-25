@@ -8,5 +8,85 @@
         "ID": 1,
         "Name": "Potato 2"
       }
-    ]
+    ],
+  "funds": [
+    {
+      "Shareclasses": [
+        {
+          "ID": "1",
+          "CurrentAsAt": "2018-04-15T11:53:29.633Z",
+          "Name": "Share 1 - Cherry name",
+          "ISIN": "4234234"
+        },
+        {
+          "ID": "2",
+          "CurrentAsAt": "2013-03-15T11:53:29.633Z",
+          "Name": "Share 2 - Tomat name",
+          "ISIN": "som323"
+        },
+        {
+          "ID": "3",
+          "CurrentAsAt": "2012-08-12T11:53:29.633Z",
+          "Name": "Share 3 - Potato name",
+          "ISIN": "potaot"
+        }
+      ],
+      "ID": "1",
+      "CurrentAsAt": "2011-06-28T17:11:30Z",
+      "Name": "Potato 1 - Fund 1",
+      "FundRangeName": "Potato 1"
+    },
+    {
+      "Shareclasses": [
+        {
+          "ID": "1",
+          "CurrentAsAt": "2018-04-15T11:53:29.633Z",
+          "Name": "Share 11 - Cherry name",
+          "ISIN": "4234234"
+        },
+        {
+          "ID": "2",
+          "CurrentAsAt": "2013-03-15T11:53:29.633Z",
+          "Name": "Share 12 - Tomat name",
+          "ISIN": "som323"
+        },
+        {
+          "ID": "3",
+          "CurrentAsAt": "2012-08-12T11:53:29.633Z",
+          "Name": "Share 13 - Potato name",
+          "ISIN": "potaot"
+        }
+      ],
+      "ID": "2",
+      "CurrentAsAt": "2011-06-28T17:11:30Z",
+      "Name": "Potato 1 - Fund 2",
+      "FundRangeName": "Potato 1"
+    },
+    {
+      "Shareclasses": [
+        {
+          "ID": "1",
+          "CurrentAsAt": "2018-04-15T11:53:29.633Z",
+          "Name": "Share 31 - Cherry name",
+          "ISIN": "4234234"
+        },
+        {
+          "ID": "2",
+          "CurrentAsAt": "2013-03-15T11:53:29.633Z",
+          "Name": "Share 32 - Tomat name",
+          "ISIN": "som323"
+        },
+        {
+          "ID": "3",
+          "CurrentAsAt": "2012-08-12T11:53:29.633Z",
+          "Name": "Share 33 - Potato name",
+          "ISIN": "potaot"
+        }
+      ],
+      "ID": "1",
+      "CurrentAsAt": "2011-06-28T17:11:30Z",
+      "Name": "Potato 2 - Fund 1",
+      "FundRangeName": "Potato 2"
+    }
+  ]
 }

@@ -1,12 +1,12 @@
 {
-  fundRanges: [
+  "fundRanges": [
       {
-        ID: 1,
-        Name: 'Potato 1'
+        "ID": 1,
+        "Name": 'Potato 1'
       },
       {
-        ID: 1,
-        Name: 'Potato 2'
+        "ID": 1,
+        "Name": 'Potato 2'
       }
     ]
 }

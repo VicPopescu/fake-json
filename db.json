@@ -9,7 +9,7 @@
         "Name": "Potato 2"
       }
     ],
-  "funds": {
+  "funds": "{
     "Content": [
       {
       "Shareclasses": [
@@ -90,5 +90,5 @@
       "FundRangeName": "Potato 2"
     }
   ]
-  }
+  }"
 }
